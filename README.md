@@ -1,5 +1,5 @@
 ## Repo originally worked on GitLab
-## GitLab Commit history
+## GitLab commit history
 <img width="1780" alt="Noah's Computer Shop Java D287 PA Git Branch History " src="https://github.com/user-attachments/assets/38ffb573-3051-4ba3-a79b-75749c224410" />
 
 GitLab - https://gitlab.com/nfra190
